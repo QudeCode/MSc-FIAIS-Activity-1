@@ -1,0 +1,9 @@
+kagglehub
+kagglesdk
+pandas
+numpy
+matplotlib
+seaborn
+ipywidgets
+jupyter
+scikit-learn
